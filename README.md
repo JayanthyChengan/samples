@@ -1,4 +1,4 @@
-# Flutter samples
+# Flutter samples test
 
 [![Build Status](https://github.com/flutter/samples/workflows/Master%20Branch%20CI/badge.svg)](https://github.com/flutter/samples/actions?workflow=Master%20Branch%20CI)
 
